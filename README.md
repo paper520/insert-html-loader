@@ -25,10 +25,10 @@ npm install --save-dev insert-html-loader
      }
 ```
 
-在需要插入vue-template的地方定义插槽，可以有任意多个
+在需要插入html-template的地方定义插槽，可以有任意多个
  
  ```html
- <insert-html>./XXX.vue</insert-html>
+ <insert-html>./XXX.html</insert-html>
  ```
 
 ### 免责声明
